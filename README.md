@@ -7,7 +7,7 @@
 - Test code is stored in the /src/test directory
 - JavaDocs are stored in the /doc directory
 - Diagrams are stored in the /diagrams directory
-- A compiled jar file is stored in /monopoly_team9.jar
+- A compiled jar file is stored in /monopoly.jar
 
 |── monopoly
 
